@@ -28,7 +28,7 @@ I had the opportunity to work on several interesting projects and explore differ
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santiago-a126033b9/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gab.alves.pereira30@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.fernandes@ucsal.edu.br)
 <div align="center">
   <sub>Desenvolvido por <strong>David Santiago Fernandes</strong> · 2026</sub>
 </div>
