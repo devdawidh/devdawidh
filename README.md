@@ -1,6 +1,6 @@
 <h1>
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=B74B4B&center=true&vCenter=true&width=500&lines=%3CDavid+%2F%3E;Backend+Engineer;Java+%7C+Spring+Boot+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=B74B4B&center=true&vCenter=true&width=500&lines=%3CDawidd+%2F%3E;Backend+Engineer;Java+%7C+Spring+Boot+%7C+Docker" alt="Typing SVG" />
 </h1>
 My name is David Santiago Fernandes. I'm a passionate Software Engineering student and technology enthusiast.
 I had the opportunity to work on several interesting projects and explore different technologies.
